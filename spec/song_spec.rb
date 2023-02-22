@@ -77,6 +77,7 @@ describe Song do
         expect(Song.genres).to match(["rap", "pop"])
       end
     end
+    event else if class arguments 
   
     describe ".genre_count" do 
       it "is a class method that returns a hash of genres and the number of songs that have those genres" do 
